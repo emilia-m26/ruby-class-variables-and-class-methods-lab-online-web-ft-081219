@@ -18,5 +18,8 @@ class Song
   def self.genre 
     @@genres=[]
   end
+  
+  def self.artists 
+    @@
 end
 
